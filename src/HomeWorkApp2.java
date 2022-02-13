@@ -36,9 +36,9 @@ public class HomeWorkApp2 {
         return x < 0;
     }
 
-    static void printFewString(String a, int x) {
-        for (int i = 0; i < x; i++) {
-            System.out.println(a);
+    static void printFewString(String st, int n) {
+        for (int i = 0; i < n; i++) {
+            System.out.println(st);
         }
     }
 
