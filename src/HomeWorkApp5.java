@@ -1,7 +1,7 @@
 /**
  * JavaLevel1.Lesson5
- * * @author IrinaK
- * * @version 22.02.2022
+ * @author IrinaK
+ * @version 22.02.2022
  */
 class HomeWorkApp5 {
     public static void main(String[] args) {
